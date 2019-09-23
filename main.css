@@ -1,0 +1,29 @@
+.article {
+    color: red
+}
+.description
+{
+    font-weight: 900
+    color: yellow 
+}
+#article-id
+{
+    color: green
+}
+#two
+{
+    text-transform: uppercase;
+}
+
+#two{
+    text-transform: uppercase
+}
+
+.container :first{
+background: green
+}
+h1,
+h2,
+h3{
+    color: green
+}
